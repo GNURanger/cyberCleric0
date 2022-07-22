@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaverickAgent
+- 👋 Hi, I’m @GhostDogAlpha
 - 👀 I’m interested in Data Analytics, Machine Learning, RPG Games
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Just getting my feet wet.
